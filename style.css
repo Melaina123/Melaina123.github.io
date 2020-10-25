@@ -1,0 +1,28 @@
+html,
+body,
+header {
+    height: 100%;
+    color:#1d2f6f;
+    background-color: #f9e9ec;
+}
+
+
+
+#intro {
+   
+    background-color:#f88dad;
+    height: 100%;
+    color:#1d2f6f;
+}
+
+
+.top-nav-collapse {
+    background-color: #fac748;
+    color: black;
+ 
+
+div{
+column-rule-color:#1d2f6f;
+
+}
+
